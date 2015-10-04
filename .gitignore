@@ -1,0 +1,13 @@
+# Vim
+*.sw[op]
+
+# Python
+/.python-version
+*.pyc
+__pycache__/
+
+# Python setuptools
+/pling.egg-info
+
+# py.test
+/.cache/
